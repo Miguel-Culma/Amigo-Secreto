@@ -10,12 +10,12 @@ Este desafío consiste en desarrollar una aplicación web que permita a los usua
 
 ### 1. __Agregar nombres:__ 
 Los usuarios pueden ingresar el nombre de un amigo en un campo de texto y añadirlo a una lista visible al hacer clic en el botón "Adicionar".
-![Inicio](/assets/nombre.png)
+![Nombres](/assets/nombre.png)
 
 ### 2. __Validar entrada:__ 
 Si el campo de texto está vacío, la aplicación mostrará una alerta solicitando un nombre válido.
 
-![Nombres](/assets/validar.png)
+![Validar](/assets/Validar.png)
 
 ### 3. __Visualizar la lista:__ 
 Los nombres ingresados se mostrarán en una lista debajo del campo de entrada.
