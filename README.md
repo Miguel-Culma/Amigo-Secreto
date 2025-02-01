@@ -41,4 +41,4 @@ Para el diseño y estilo visual.
 ### JavaScript: 
 Para la lógica de la aplicación, incluyendo la validación de entradas, la manipulación del DOM y la generación del sorteo aleatorio.
 
-<img src="https://logos-world.net/wp-content/uploads/2023/02/JavaScript-Emblem.png" alt="Logo de GitHub" width="150" height="150">
+<img src="https://logos-world.net/wp-content/uploads/2023/02/JavaScript-Emblem.png" alt="Logo de GitHub" width="100" height="100">
