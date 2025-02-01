@@ -1,12 +1,12 @@
 # __JUEGO DEL AMIGO SECRETO - MIGUEL CULMA__
 
-_ DESCRIPCIÓN _
+ _DESCRIPCIÓN_
 
 <sub>
 Este desafío consiste en desarrollar una aplicación web que permita a los usuarios agregar nombres de amigos a una lista y luego realizar un sorteo aleatorio para determinar quién es el "amigo secreto".
 </sub>
 
-\_ FUNCIONALIDADES _
+\ _FUNCIONALIDADES_
 
 1. __Agregar nombres:__ Los usuarios pueden ingresar el nombre de un amigo en un campo de texto y añadirlo a una lista visible al hacer clic en el botón "Adicionar".
 
@@ -16,7 +16,7 @@ Este desafío consiste en desarrollar una aplicación web que permita a los usua
 
 4. __Sorteo aleatorio:__ Al hacer clic en el botón "Sortear Amigo", la aplicación seleccionará aleatoriamente un nombre de la lista y mostrará el resultado en la página.
 
-_ TECNOLOGIAS USADAS _
+_TECNOLOGIAS USADAS_
 
 * HTML: Para la estructura de la página.
 
