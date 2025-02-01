@@ -6,7 +6,7 @@
 Este desafío consiste en desarrollar una aplicación web que permita a los usuarios agregar nombres de amigos a una lista y luego realizar un sorteo aleatorio para determinar quién es el "amigo secreto".
 </sub>
 
-\ _FUNCIONALIDADES_
+\_FUNCIONALIDADES_
 
 1. __Agregar nombres:__ Los usuarios pueden ingresar el nombre de un amigo en un campo de texto y añadirlo a una lista visible al hacer clic en el botón "Adicionar".
 
