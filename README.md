@@ -11,13 +11,16 @@ Este desafío consiste en desarrollar una aplicación web que permita a los usua
 _FUNCIONALIDADES_ :keyboard:
 
 1. __Agregar nombres:__ Los usuarios pueden ingresar el nombre de un amigo en un campo de texto y añadirlo a una lista visible al hacer clic en el botón "Adicionar".
+![Inicio](/assets/Inicio.png)
 
 2. __Validar entrada:__ Si el campo de texto está vacío, la aplicación mostrará una alerta solicitando un nombre válido.
 
+![Nombres](/assets/nombre.png)
+
 3. __Visualizar la lista:__ Los nombres ingresados se mostrarán en una lista debajo del campo de entrada.
-
+![Visualizar](/assets/Lista.png)
 4. __Sorteo aleatorio:__ Al hacer clic en el botón "Sortear Amigo", la aplicación seleccionará aleatoriamente un nombre de la lista y mostrará el resultado en la página.
-
+![sorteo](/assets/Resultado.png)
 _TECNOLOGIAS USADAS_ :blue_book:
 
 * HTML: Para la estructura de la página.
