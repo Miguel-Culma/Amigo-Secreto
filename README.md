@@ -30,14 +30,15 @@ Al hacer clic en el botón "Sortear Amigo", la aplicación seleccionará aleator
 ### * HTML: 
 Para la estructura de la página.
 
-![JavaScript_Logo](https://logos-world.net/wp-content/uploads/2023/02/JavaScript-Emblem.png)
+<img src="https://logos-world.net/wp-content/uploads/2023/02/JavaScript-Emblem.png" alt="Logo de GitHub" width="50" height="50">
+
 
 ### * CSS: 
 Para el diseño y estilo visual.
 
-![CSS_Logo](https://logospng.org/download/css-3/logo-css-3-1536.png)
+<img src="https://logospng.org/download/css-3/logo-css-3-1536.png" alt="Logo de GitHub" width="50" height="50">
 
 ### * JavaScript: 
 Para la lógica de la aplicación, incluyendo la validación de entradas, la manipulación del DOM y la generación del sorteo aleatorio.
 
-![HTML5_Logo](https://cdn.pixabay.com/photo/2018/05/08/21/28/html5-3384014_1280.png)
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/512px-HTML5_logo_and_wordmark.svg.png" alt="Logo de GitHub" width="50" height="50">
