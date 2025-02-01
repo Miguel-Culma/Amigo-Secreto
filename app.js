@@ -34,7 +34,7 @@ function sortearAmigo(){
         lista.innerHTML = ""; 
         amigoSecreto.append(nombresArray[numeroAleatoreo]) // mostrar resultado
     }else{
-        alert("Para realizar el sorte se debe tener por lo menos un amigo registrado")
+        alert("Para realizar el sorteo se debe tener por lo menos un amigo registrado")
     }
    }
 
