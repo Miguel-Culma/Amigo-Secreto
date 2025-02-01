@@ -2,9 +2,9 @@
 
  _DESCRIPCIÓN_
 
-<sub>
+
 Este desafío consiste en desarrollar una aplicación web que permita a los usuarios agregar nombres de amigos a una lista y luego realizar un sorteo aleatorio para determinar quién es el "amigo secreto". 
-</sub> 
+
 
 <br/>
 
